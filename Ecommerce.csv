@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,Annual_Income,Spending_Score,Membership_Level,Products_Purchased,Last_Purchase_Amount
+1001,John Smith,25,Male,45000,78,Gold,5,150
+1002,Sara Lee,34,Female,52000,45,Silver,3,80
+1003,Michael Brown,29,Male,60000,32,Bronze,2,120
+1004,Linda Green,,Female,75000,70,Gold,7,200
+1005,James White,31,Male,58000,50,Silver,4,110
+1006,Emily Davis,27,Female,43000,88,Gold,6,160
+1007,David Wilson,,Male,81000,20,Bronze,1,60
+1008,Jessica Miller,22,Female,37000,95,Gold,,210
+1009,Daniel Garcia,39,Male,67000,55,Silver,4,130
+1010,Amanda Lopez,30,Female,48000,65,Silver,5,140
+1011,Mark Robinson,35,Male,55000,40,Bronze,3,100
+1012,Sophia Turner,28,Female,46000,82,Gold,7,180
+1013,Chris Hall,,Male,72000,60,Silver,5,150
+1014,Natalie Adams,33,Female,62000,68,Gold,6,170
+1015,Peter Young,50,Male,90000,15,Bronze,,50
+1016,Olivia Scott,23,Female,41000,90,Gold,9,220
+1017,Ethan Hughes,38,Male,71000,52,Silver,4,140
+1018,Megan Clark,26,Female,44000,85,Gold,8,200
+1019,Andrew Wright,41,Male,78000,35,Bronze,2,90
+1020,Laura King,32,Female,59000,72,Silver,5,160
